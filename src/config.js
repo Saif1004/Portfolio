@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Experience',
-      url: '/#experience',
+      url: '/#jobs',
     },
     {
       name: 'Contact',
