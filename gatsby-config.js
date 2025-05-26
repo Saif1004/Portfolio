@@ -1,6 +1,9 @@
 const config = require('./src/config');
 
 module.exports = {
+  flags: {
+    AVIF: false,
+  },
   siteMetadata: {
     title: 'Saif Shah',
     description:
